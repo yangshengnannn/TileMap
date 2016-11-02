@@ -1,0 +1,55 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,tile_2_png,tile_1_png,10000_png,10001_png,10002_png,10003_png,10004_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/tile_2.png",
+			"type": "image",
+			"name": "tile_2_png"
+		},
+		{
+			"url": "assets/tile_1.png",
+			"type": "image",
+			"name": "tile_1_png"
+		},
+		{
+			"name": "10000_png",
+			"type": "image",
+			"url": "assets/10000.png"
+		},
+		{
+			"name": "10001_png",
+			"type": "image",
+			"url": "assets/10001.png"
+		},
+		{
+			"name": "10002_png",
+			"type": "image",
+			"url": "assets/10002.png"
+		},
+		{
+			"name": "10003_png",
+			"type": "image",
+			"url": "assets/10003.png"
+		},
+		{
+			"name": "10004_png",
+			"type": "image",
+			"url": "assets/10004.png"
+		}
+	]
+}
